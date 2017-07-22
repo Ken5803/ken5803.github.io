@@ -1,0 +1,454 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+li{
+	list-style-type:none;
+	float:left;
+	padding-right:26px;
+}
+
+.nen{
+	background-image: url('img/banner.png');
+	background-size:cover;
+	background-position:center;
+	padding:30px;
+	width:100%;
+	height:700px;
+	margin:auto;
+}
+li img{
+	width:100%;
+}
+ul{
+	position:relative;
+	left:30%;
+}
+}
+#doan2 img{
+	width:38px;
+}
+#doan2{
+	background-color:#dddddd;
+	text-align:center;
+	height:400px;
+	padding-top:45px;
+}
+#doan2 p{
+	font-size:15px;
+	color:gray;
+	font-family: 'Lato', sans-serif;
+}
+.pic1{
+	float:left;
+	width:65%;
+	height:500px;
+	text-align:center;
+	background-image:url('img/pic01.png');
+	background-size:cover;
+	margin:auto;
+}
+.pic1 img{
+	width:10%;
+	position:relative;
+	top:45%;
+}
+#pic2{
+	width:35%;
+	height:500px;
+	float:right;
+}
+.buc1{
+	text-align:center;
+	padding-top:55px;
+	font-family: 'Lato', sans-serif;
+	height:320px;
+	
+}
+.justify {
+	text-align: justify;
+	width: 80%;
+	margin: auto;
+	color:gray;
+	font-size:15px;
+}
+.buc2 img{
+	width: 100%;
+	height:180px;
+}
+.gachngang{
+	background-color:lightgray;
+	height:1px;
+	width:45px;
+	margin: auto;
+	margin-top:30px;
+}
+#doan4{
+	text-align:center;
+}
+.chinh1{
+	width: 40%;
+	font-family: 'Lato', sans-serif;
+	height:800px;
+}
+.phuphu p{
+	color:gray;
+	text-align: justify;
+	width: 80%;
+	margin: auto;
+	font-size:15px;
+	height:260px;
+	padding-left:50px;
+}
+.phuphu img{
+	padding-top:55px;
+}
+.phu1{
+	height:400px;
+}
+.phuphu2 img{
+	width:100%;
+}
+.gachngang2{
+	background-color:lightgray;
+	height:1px;
+	width:45px;
+	margin: auto;
+	margin-bottom: 51px;
+    margin-top: -13px;
+}
+.chinh2{
+	width: 60%;
+	height: 845px;
+}
+.phu2{
+	position:relative;
+	top: 87%;
+	text-align:center;
+	height: 502px;
+	padding-top: 234px;
+	background-size:cover;
+}
+.phu2 style{
+	width:100%;
+}
+.phu2 img{
+	width:200px;
+    position: relative;
+    left: 15px;
+}
+.anhphu{
+	background-size:cover;
+	height: 596px;
+    position: relative;
+    top: -300px;
+}
+.chinh2{
+	float:right;
+}
+.anhphu img{
+	position: relative;
+    top: 240px;
+    left: 2px;
+    width: 120px;
+}
+.phuphu3{
+	height:249px;
+	text-align:center;
+}
+.trai{
+	float:left;
+	width:50%;
+	position: relative;
+    top: -260px;
+    font-family: 'Lato', sans-serif;
+}
+.trai p{
+	color: gray;
+	font-size: 13px;
+	text-align:justify;
+	padding-left:50px;
+}
+.gachngang3{
+	background-color:lightgray;
+	height:1px;
+	width:45px;
+	margin: auto;
+	margin-bottom: 80px;
+    margin-top: -13px;
+    position: relative;
+    top: 30px;
+}
+.phuphu4 img{
+	width:100%;
+	height: 165px;
+}
+.phai{
+	width:50%;
+	float:right;
+}
+.phai img{
+	width:100%;
+	position: relative;
+    top: -300px;
+    height:502px;
+}
+#doan5{
+	background-color:#dddddd;
+	color:gray;
+	font-family: 'Lato', sans-serif;
+	text-align:center;
+	width:100%;
+	clear: both;
+	position:relative;
+	top: -47px; 
+	height:350px;
+}
+#doan5 img{
+	position: relative;
+    top: 100px;
+}
+#chu1{
+	color:black;
+	position: relative;
+    left: 95px;
+    top: 130px;
+}
+#chu2{
+	position: relative;
+    top: 130px;
+    left: 85px;
+}
+.chu li{
+	font-size: 18px;
+}
+.dong p{
+	position: relative;
+    top: 170px;
+    left: -200px;
+}
+.tron li{
+	padding:5px;
+	border:1px solid gray;
+	border-radius:50%;
+	margin:3px;
+	position: relative;
+    top: 220px;
+    left: 640px;
+}
+.tron1{
+	background-color:gray;
+}
+.phan1{
+	width:37%;
+	height:400px;
+}
+.tren{
+	width:100%;
+	height: 220px;
+
+}
+.nuatrai{
+	width: 267px;
+    float: left;
+    position: relative;
+    top: -47px;
+}
+.nuaphai{
+	width: 267px;
+    float: right;
+    position: relative;
+    left: 35px;
+    top: -318px;
+}
+.nuatrai img{
+	clear:both;
+}
+.nuaphai img{
+	clear:both;
+}
+.duoi img{
+	width: 534px;
+    height: 50%;
+    position: relative;
+    top: -322px;
+}
+.phan2{
+    width: 26%;
+    height: 400px;
+    position: relative;
+    top: -589px;
+    left: 530px;
+}
+.traiphan2{
+	width:50%;
+	float:left;
+}
+.phaiphan2{
+	width: 50%;
+	float:right;
+}
+.traiphan2 img{
+    position: relative;
+    top: 142px;
+    width: 190px;
+    height: 536px;
+}
+.phaiphan2 img{
+    position: relative;
+    left: 15px;
+    height: 536px;
+    width: 190px;
+}
+.phan3{
+	width: 24%;
+	height:400px;
+}
+.trenphan3{
+	width: 439px;
+    position: relative;
+    top: -847px;
+    left: 910px;
+    height: 267px;
+
+}
+.trenphan3 img{
+    width: 10%;
+    background-size: cover;
+    float: right;
+    position: relative;
+    top: -40px;
+    left: 79px;
+}
+.trenphan3 h3{
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 190px;
+}
+.traiphan3 img{
+    width: 220px;
+    height: 270px;
+    background-size: cover;
+    float: right;
+    position: relative;
+    top: -863px;
+    left: 806px;
+}
+.phaiphan3 img{
+    width: 220px;
+    height: 270px;
+    position: relative;
+    left: 349%;
+    top: -1133px;
+}
+#hang{
+    background-color: #0d202b;
+    height: 180px;
+    width: 100%;
+    position: relative;
+    top: -711px;
+    text-align:center;
+    color:white;
+    font-size:10px;
+    font-family: 'Lato', sans-serif;
+}
+.nhanhang{
+	border:1px solid white;
+	width:18%;
+	display: inline-block;
+    position: relative;
+    top: -90px;
+}
+.nhanhang h3{
+	padding:15px;
+	padding-left:40px; 
+	padding-right:40px;
+}
+#dangnhap{
+	width: 100%;
+    height: 400px;
+    text-align: center;
+    color: gray;
+  	font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    top: -711px;
+}
+#dangnhap img{
+    position: relative;
+    top: 80px;
+    width: 81px;
+}
+.warn{
+	position: relative;
+    top: 100px;
+    font-size: 20px;
+}
+.nhapdiachi{
+    width: 40%;
+    height: 25px;
+    position: relative;
+    top: 140px;
+    left: 260px;
+}
+.diachi{
+	color:lightgray;
+	display:inline-block;
+	padding:15px;
+	padding-right:240px;
+	border:1px solid lightgray;
+	margin-right: 5px;
+}
+.go{
+	color:#f1e0e0;
+	width:20%;
+    height: 56px;
+	background-color:#54dcaa;
+	padding-top: 15px;
+    padding-left: 20px;
+}
+#doancuoi{
+	width:103%;
+	height:220px;
+	background-color:#dddddd;
+	position:relative;
+	top:-711px;
+	font-family: 'Lato', sans-serif;
+}
+.li1{
+	font-size:13px;
+	color:gray;
+}
+.li11{
+	position: relative;
+    top: 90px;
+    left: -355px;
+}
+.li22{
+	position: relative;
+    top: 105px;
+    left: -482px;
+}
+.li33{
+	position: relative;
+    top: 120px;
+    left: -641px;
+}
+.symbol{
+	position:relative;
+	top:90px;
+	left:-300px;
+}
+.li3{
+	position:relative;
+	left:-295px;
+	top:90px;
+}
+.nguon{
+	color:gray;
+}
